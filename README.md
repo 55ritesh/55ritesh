@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&size=30&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I+am+Ritesh Kumar.;I+am+an+enthusiastic+and+social+person+who+loves+to+take+up+new+ challenges+and+learn+new+skills.)](https://git.io/typing-svg)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://khushboogoel01.github.io)
+<h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
+<h3 align="center">I am an enthusiastic and social person who loves to take up new challenges and learn new skills.!</h3>
 
 ---
 
