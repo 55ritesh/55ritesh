@@ -1,29 +1,35 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&size=30&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I+am+Ritesh Kumar.;I+am+an+enthusiastic+and+social+person+who+loves+to+take+up+new+ challenges+and+learn+new+skills.)](https://git.io/typing-svg)
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://khushboogoel01.github.io)
-<h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+### 👩‍💻 About Me
 
-- 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
+☑️  I am an undergraduate student, pursuing my degree in B.Tech(IT) from Institute of Engineering and Technology Lucknow.
 
-- 📫 How to reach me **talktokhushboogoel@gmail.com**
+☑️  I am selected for the Microsoft Engage Program'22, wherein I am mentored by senior leaders from Microsoft India.
 
-- ⚡ Fun fact **I think I am funny XD**
+☑️  I have a keen interest in frontend development and am trying my hands at mobile application development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
-<a href="https://instagram.com/_khushboo.goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khushboo goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
-</p>
+☑️  I have been a participant of various programs such as  GirlScript Winter of Contribution(GWOC), etc.
 
-<!--<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
--->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+☑️  I am looking forward to explore the open source world and share my learnings via contributions.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+---
+
+### 🛠 Tools and Technologies I have worked with
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<br/>
+
+---
+
+### 🤝 Contact me @
+<a target="_blank" href="https://www.linkedin.com/in/ritesh-kumar-566a48200/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:ritesh02072002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/ritesh-kumar-566a48200/
+[gmail]:    ritesh02072002@gmail.com
