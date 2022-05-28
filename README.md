@@ -10,7 +10,7 @@
 
 ☑️  I am selected for the Microsoft Engage Program'22, wherein I am mentored by senior leaders from Microsoft India.
 
-☑️  I have a keen interest in frontend development and am trying my hands at mobile application development.
+☑️  I am also the member of GDSC(Google Developer Student Club) at IET Lucknow.
 
 ☑️  I have been a participant of various programs such as  GirlScript Winter of Contribution(GWOC), etc.
 
