@@ -1,36 +1,18 @@
+# 💫 About Me:
+I am currently an SDE Intern at HealthEdge.<br><br>I am an undergraduate student, pursuing my degree in B.Tech(IT) from Institute of Engineering and Technology Lucknow.<br><br>I am selected for the Microsoft Engage Program'22, wherein I am mentored by senior leaders from Microsoft India.<br><br> I am also the member of GDSC(Google Developer Student Club) at IET Lucknow.<br><br>I have been a participant of various programs such as GirlScript Winter of Contribution(GWOC), etc.<br><br>I am looking forward to explore the open source world and share my learnings via contributions.
 
-<h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">I am an enthusiastic and social person who loves to take up new challenges and learn new skills.!</h3>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-kumar-566a48200/) 
 
-### 👩‍💻 About Me
-
-☑️  I am an undergraduate student, pursuing my degree in B.Tech(IT) from Institute of Engineering and Technology Lucknow.
-
-☑️  I am selected for the Microsoft Engage Program'22, wherein I am mentored by senior leaders from Microsoft India.
-
-☑️  I am also the member of GDSC(Google Developer Student Club) at IET Lucknow.
-
-☑️  I have been a participant of various programs such as  GirlScript Winter of Contribution(GWOC), etc.
-
-☑️  I am looking forward to explore the open source world and share my learnings via contributions.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=55ritesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=55ritesh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=55ritesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=55ritesh&icon=0&color=5)](https://visitcount.itsvg.in)
 
-### 🛠 Tools and Technologies I have worked with
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<br/>
-
----
-
-### 🤝 Contact me @
-<a target="_blank" href="https://www.linkedin.com/in/ritesh-kumar-566a48200/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:ritesh02072002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br/>
-
-[linkedin]: https://www.linkedin.com/in/ritesh-kumar-566a48200/
-[gmail]:    ritesh02072002@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
